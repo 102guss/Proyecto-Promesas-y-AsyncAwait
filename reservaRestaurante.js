@@ -49,6 +49,6 @@ async function hacerReserva(nombreCliente, mesasSolicitadas) {
 }
 
 // Llamadas de prueba
-hacerReserva("Ximena Guzman", 5);
+hacerReserva("Alejandro Péres", 2);
 // Puedes probar también esto:
 // hacerReserva("Ana Gómez", 4);  // Falla por falta de mesas
